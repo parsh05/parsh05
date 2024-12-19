@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parsh05
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning FrontEnd Development and Advanced Java , and also doing DSA Questions.
+- 🌱 I’m currently learning FrontEnd Development and SpringBoot, and also doing DSA Questions.
 
 <!---
 parsh05/parsh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
