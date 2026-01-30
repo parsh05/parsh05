@@ -19,15 +19,15 @@
 
 ### 🔗 Backend & System Design
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Patient-Management-System&theme=dark)](https://github.com/parsh05/Patient-Management-System)
+[![Patient Management System](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Patient-Management-System&theme=dark)](https://github.com/parsh05/Patient-Management-System)
 
 ### 🍔 Full-Stack Applications
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Foodies&theme=dark)](https://github.com/parsh05/Foodies)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=url-shortener&theme=dark)](https://github.com/parsh05/url-shortener)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Background-Saas-Remover&theme=dark)](https://github.com/parsh05/Background-Saas-Remover)
+[![Food Ordering and Delivery Platform](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Foodies&theme=dark)](https://github.com/parsh05/Foodies)
+[![URL Shortner](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=url-shortener&theme=dark)](https://github.com/parsh05/url-shortener)
+[![Image Background Remover - SaaS Application](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Background-Saas-Remover&theme=dark)](https://github.com/parsh05/Background-Saas-Remover)
 
 ### 📊 Data Science & Machine Learning
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Customer-LifeTime-value-Non-Contractual&theme=dark)](https://github.com/parsh05/Customer-LifeTime-value-Non-Contractual)
+[![Customer Lifetime Value Prediction](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Customer-LifeTime-value-Non-Contractual&theme=dark)](https://github.com/parsh05/Customer-LifeTime-value-Non-Contractual)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=parsh05&icon=0&color=0)](https://visitcount.itsvg.in)
