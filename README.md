@@ -15,6 +15,20 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=parsh05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+-- ## 🚀 Top Projects
+
+### 🔗 Backend & System Design
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Patient-Management-System&theme=dark)](https://github.com/parsh05/Patient-Management-System)
+
+### 🍔 Full-Stack Applications
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Foodies&theme=dark)](https://github.com/parsh05/Foodies)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=url-shortener&theme=dark)](https://github.com/parsh05/url-shortener)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Background-Saas-Remover&theme=dark)](https://github.com/parsh05/Background-Saas-Remover)
+
+### 📊 Data Science & Machine Learning
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsh05&repo=Customer-LifeTime-value-Non-Contractual&theme=dark)](https://github.com/parsh05/Customer-LifeTime-value-Non-Contractual)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=parsh05&icon=0&color=0)](https://visitcount.itsvg.in)
 
